@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--红色主题-->
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimarylight">#FFCDD2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+
+    <!-- 绿色主题-->
+    <color name="colorPrimaryBlue">#4CAF50</color>
+    <color name="colorPrimaryDarkBlue">#388E3C</color>
+    <color name="colorPrimarylightBlue">#C8E6C9</color>
+    <color name="colorAccentBlue">#448AFF</color>
+    <color name="colorPrimaryTextBlue">#212121</color>
+    <color name="colorSecondaryTextBlue">#757575</color>
+    <color name="colorIconsBlue">#FFFFFF</color>
+    <color name="colorDividerBlue">#BDBDBD</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingView">
+        <attr name="ltColor" format="color"/>
+        <attr name="lbColor" format="color"/>
+        <attr name="rtColor" format="color"/>
+        <attr name="rbColor" format="color"/>
+    </declare-styleable>
+</resources>
